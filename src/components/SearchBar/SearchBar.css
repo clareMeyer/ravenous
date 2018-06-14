@@ -12,6 +12,7 @@
   display: flex;
   justify-content: center;
   margin-bottom: 2.22rem;
+  list-style-type: none;
   color: #ffffff;
 }
 
